@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:attribute name="layout_constraintBottom_toBottomOf" type="xs:string"/>
+  <xs:attribute name="layout_constraintLeft_toLeftOf" type="xs:string"/>
+  <xs:attribute name="layout_constraintRight_toRightOf" type="xs:string"/>
+  <xs:attribute name="layout_constraintTop_toTopOf" type="xs:string"/>
+</xs:schema>
